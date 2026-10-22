@@ -1,0 +1,5 @@
+# Archives / local-only files (not part of the deployed site)
+*.zip
+*.ps1.bak
+Thumbs.db
+Desktop.ini
